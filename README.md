@@ -19,8 +19,6 @@ hi, i'm Jackson, a passionate self-taught full stack web developer with 9 years 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
-📈 *** my github stats ***
 <br /><br />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vn425282&show_icons=true&theme=gotham" alt="vn425282" />
 
