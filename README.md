@@ -6,6 +6,8 @@ hi, i'm Jackson, a passionate self-taught full stack web developer with 9 years 
 
 - 💬 ask me about anything, i am happy to help;
 
+Check my portfolio: https://vn425282.github.io/
+
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
