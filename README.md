@@ -6,7 +6,9 @@ hi, i'm Jackson, a passionate self-taught full stack web developer with 9 years 
 
 - 💬 ask me about anything, i am happy to help;
 
-Check my portfolio: https://vn425282.github.io/
+Check my portfolio: 
+1. https://vn425282.github.io/
+2. https://gongo.vercel.app/
 
 **languages and tools:**  
 
