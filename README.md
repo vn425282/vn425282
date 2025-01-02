@@ -1,5 +1,5 @@
 
-hi, i'm Jackson, a passionate self-taught full stack web developer with 9 years of experience in Web Development (which includes 5 years of experience in Modern Front-End Web Development and 4 years of Backend with NodeJS, .NET, PHP related technologies), with good knowledge of Object-Oriented Analysis and Design, Architecture Design, and Design Patterns. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm Jackson, a passionate self-taught full stack web developer with 10 years of experience in Web Development (which includes 6 years of experience in Modern Front-End Web Development and 4 years of Backend with NodeJS, .NET, PHP related technologies), with good knowledge of Object-Oriented Analysis and Design, Architecture Design, and Design Patterns. I take great care in the experience, architecture, and code quality of the things I build.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
